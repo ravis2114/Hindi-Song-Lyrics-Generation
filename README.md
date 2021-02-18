@@ -1,12 +1,12 @@
-#Hindi-Song-Lyrics-Generation
+# Hindi-Song-Lyrics-Generation
 ----
 data is scrapped from internet
 
-#Model
+# Model
 ----
 LSTM (Stacked)
 
-#To Run:
+# To Run:
 ----
 ```
 python clean_data.py
@@ -16,7 +16,7 @@ To Train and Create Model (I'd advise running it in colab TPU if you don't have 
 python lyrics_generator.py
 ```
 
-#Some Result
+# Some Result
 ----
 -------seed text---------------
 
