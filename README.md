@@ -1,6 +1,6 @@
 # Hindi-Song-Lyrics-Generation
 ----
-data is scrapped from internet
+data is scrapped from [lyricsindia](https://www.lyricsindia.net/)
 
 # Model
 ----
