@@ -8,9 +8,17 @@ LSTM (Stacked)
 
 # To Run:
 ----
+
+Scrap data if not scrapped already:
+```
+python lyrics_scrapper.py
+```
+
+To clean data:
 ```
 python clean_data.py
 ```
+
 To Train and Create Model (I'd advise running it in colab TPU if you don't have super fast GPU):
 ```
 python lyrics_generator.py
